@@ -1,0 +1,26 @@
+.navbar img{
+    width : 100px;
+    height : 70px;
+}
+img{
+    width: inherit;
+    min-height: 100%;
+}
+body{
+    margin-bottom: 10px;
+    background-color: rgb(108, 110, 116);;
+    color: white;
+}
+
+.borderless td, .borderless th {
+    border: none;
+} 
+
+.checked {
+    color : #ffc107;;
+    font-size : 20px;
+}
+.unchecked {
+    font-size : 20px;
+    color:rgb(247, 244, 244);
+}
